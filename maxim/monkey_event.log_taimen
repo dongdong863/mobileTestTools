@@ -1,0 +1,44 @@
+version:1.0.3.0806.1015               
+                                      
+                                      
+            ..                    ..:.
+           ..t..     Maxim      .h..
+            ..i..  . ....... .  ..si
+              sandroidmonkeystreste
+              .sttoolMaxim.thistool.
+           .helpyoutofoundappcrash.thi
+         ..stooluserandomordfsalgorithm:.
+        .smonkeyMaxim machine gunmonkey..
+      ..monkey,..,monkeymonkeym,..,onkeym.
+      .onkeymon..keymon.keymonke..ymonkeym.
+      ,onkeymonkeymonkeymonkeymonkeymon.key.
+     .monkeymonkeymonkeymonkeymonkeymonkeym.
+     .onkeymonkeymonkeythxforphdguxiaotian.:
+     .anythingUcancontactpanda_zzaqq77227005
+      .                                   . 
+                                            
+      .                                   . 
+                                            
+[Maxim] // Monkey: seed=1564317843676 count=1000
+
+
+
+[Maxim] // Selecting main activities from category android.intent.category.LAUNCHER
+[Maxim] // + Using main activity com.yy.mobile.ui.splash.SplashActivity (from package com.duowan.mobile)
+[Maxim] // Selecting main activities from category android.intent.category.MONKEY
+[Maxim] // Add Package To PackageWhiteList : com.oppo.camera
+[Maxim] // Add Package To PackageWhiteList : com.android.packageinstaller
+[Maxim] // Add Package To PackageWhiteList : com.android.documentsui
+[Maxim] // Add Launcher To ActivityWhiteList : com.yy.mobile.ui.splash.SplashActivity
+[Maxim] // AllowPackage: com.duowan.mobile
+[Maxim] // AllowPackage: com.oppo.camera
+[Maxim] // AllowPackage: com.android.packageinstaller
+[Maxim] // AllowPackage: com.android.documentsui
+[Maxim] // AllowActivity: com.yy.mobile.ui.splash.SplashActivity
+[Maxim] // AllowActivity: com.yy.mobile.plugin.homepage.prehome.mvpadvertise.AdvertiseActivity
+[Maxim] // AllowActivity: com.duowan.mobile.basemedia.watchlive.activity.LiveTemplateActivity
+[Maxim] // AllowActivity: com.yy.mobile.plugin.homepage.ui.home.HomeActivity
+[Maxim] // IncludeCategory: android.intent.category.LAUNCHER
+[Maxim] // IncludeCategory: android.intent.category.MONKEY
+[Maxim] // Special Event: 
+[Maxim] // Black Widget List: 
